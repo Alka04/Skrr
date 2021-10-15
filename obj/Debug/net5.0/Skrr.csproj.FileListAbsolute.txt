@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\GitHub\Skrr\bin\Debug\net5.0\Skrr.exe
+C:\Users\Admin\Documents\GitHub\Skrr\bin\Debug\net5.0\Skrr.deps.json
+C:\Users\Admin\Documents\GitHub\Skrr\bin\Debug\net5.0\Skrr.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Skrr\bin\Debug\net5.0\Skrr.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\Skrr\bin\Debug\net5.0\Skrr.dll
+C:\Users\Admin\Documents\GitHub\Skrr\bin\Debug\net5.0\ref\Skrr.dll
+C:\Users\Admin\Documents\GitHub\Skrr\bin\Debug\net5.0\Skrr.pdb
+C:\Users\Admin\Documents\GitHub\Skrr\obj\Debug\net5.0\Skrr.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Skrr\obj\Debug\net5.0\Skrr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Skrr\obj\Debug\net5.0\Skrr.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Skrr\obj\Debug\net5.0\Skrr.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Skrr\obj\Debug\net5.0\Skrr.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Skrr\obj\Debug\net5.0\Skrr.dll
+C:\Users\Admin\Documents\GitHub\Skrr\obj\Debug\net5.0\ref\Skrr.dll
+C:\Users\Admin\Documents\GitHub\Skrr\obj\Debug\net5.0\Skrr.pdb
+C:\Users\Admin\Documents\GitHub\Skrr\obj\Debug\net5.0\Skrr.genruntimeconfig.cache
