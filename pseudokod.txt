@@ -1,0 +1,8 @@
+När man startar programmet så kommer en räcknare skapas, räknaren skapas för att räckna antalet försök det tar för dig att gissa rätt.
+Sen skapades en slumpmässig tal mellan siffrorna 1-100.
+Detta tal lagras då i en variabel.
+Sen ska man själv skriva in sin gissning 1-100.(Skriver man något annat än ett tal så kommer man få skriva om gissningen, med varnigen att man måste skriva ett tal.)
+Är det fel tal man skrivit in så får man gissa en gång till med en ledtråd o det talet du nyss krev är för hgt eller för lågt.
+Är det rätt, så kommer man bli gratulerad och man får reda på hur många försök det tog för en att gissa fram det rätta talet.
+Sen har spelet stoppats.
+
